@@ -1,6 +1,6 @@
-# Simple iPhone Toggle component with Tailwind CSS, Flex and React
+# 📱 Simple iPhone Toggle component with Tailwind CSS, Flex and React
 
-## Preview
+## 📖 Preview
 
 - uses React state to store state (on/off)
 - uses Tailwind classes
@@ -9,7 +9,7 @@
 
 ![Usage preview](./iPhone-toggles-with-Tailwind-CSS-and-Flex.png)
 
-## Component code
+## 📦 Component code
 
 ```JSX
 const Toggle = ({ on = false }) => {
@@ -30,9 +30,9 @@ const Toggle = ({ on = false }) => {
 };
 ```
 
-## Usage example
+## 👨🏼‍💻 Usage example
 
-```JSX👌
+```JSX
 <div className="h-screen w-screen flex flex-col justify-center items-center bg-gradient-to-r from-blue-200 to-cyan-200 gap-10">
   <h1 className="text-2xl font-bold text-slate-800">
     iPhone Toggles with Tailwind CSS & Flex
@@ -42,7 +42,7 @@ const Toggle = ({ on = false }) => {
 </div>
 ```
 
-## Run locally
+## 🚀 Run locally
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -54,4 +54,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-P.S. Thanks to Ben Awad (@benawad) I've used nice and fun emodji commit messages. And tagged him as he askes in his video on getting Open-Source fame.
+## 🙏 Credits to Ben Awad (@benawad)
+
+Thanks to Ben Awad (@benawad) I've used nice and fun emodji commit messages. And tagged him as he askes in his video on getting Open-Source fame.
